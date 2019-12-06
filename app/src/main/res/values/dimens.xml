@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="espacamento_padrao">16dp</dimen>
+    <dimen name="altura_linha_padrao">104dp</dimen>
+    <dimen name="tamanho_titulo">16sp</dimen>
+    <dimen name="tamanho_secao">14sp</dimen>
+
+
+</resources>

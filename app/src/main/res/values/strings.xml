@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notícias</string>
+
+    <string name="sem_noticias">Nenhuma notícia encontrada. Tente mais tarde novamente.</string>
+
+    <string name="sem_internet">Verifique sua conexão com a internet e tente novamente.</string>
+
+    <string name="settings_menu_item">Configurações</string>
+    <string name="settings_title">Configurações das Notícias</string>
+
+    <!-- Strings de Quantidade de Noticias  -->
+    <string name="settings_min_qtde_label">Quantidade de Notícias Exibidas</string>
+    <string name="settings_min_qtde_key" translatable="false">min_qtde</string>
+    <string name="settings_min_qtde_default" translatable="false">30</string>
+    <string name="settings_qtde_secao" translatable="false">"digite a quantidade que deseja ver"</string>
+
+    <!-- Strings de Secao  -->
+    <string name="settings_min_secao_label">Filtrar por Seção</string>
+    <string name="settings_min_secao_key" translatable="false">min_secao</string>
+    <string name="settings_min_secao_default" translatable="false">""</string>
+    <string name="settings_hint_secao" translatable="false">"digite a seção em inglês"</string>
+
+    <!-- Strings para Ordenacao -->
+    <string name="settings_order_by_label">Ordernar por</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_mais_recente_value</string>
+
+    <!-- Label de ordenacao opcao Mais Recente -->
+    <string name="settings_order_by_mais_recente_label">Mais Recente</string>
+    <string name="settings_order_by_mais_recente_value" translatable="false">newest</string>
+
+    <!-- Label de ordenacao opcao Mais Antigo -->
+    <string name="settings_order_by_mais_antigo_label">Mais Antigo</string>
+    <string name="settings_order_by_mais_antigo_value" translatable="false">oldest</string>
+
+    <!-- Label de ordenacao opcao Mais Relevante -->
+    <string name="settings_order_by_mais_relevante_label">Mais Relevante</string>
+    <string name="settings_order_by_mais_relevante_value" translatable="false">relevance</string>
+
+</resources>
